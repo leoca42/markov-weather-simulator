@@ -3,6 +3,8 @@ import numpy as np
 import random
 from collections import defaultdict
 
+#testing changes
+
 """
 sunny: no/little precipitation, TAVG >= 50th percentile && PRCP <= 10th percentile
 cloudy: no/little precipitation, TAVG < 50th percentile && PRCP <= 10th percentile
